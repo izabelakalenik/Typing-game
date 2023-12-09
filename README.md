@@ -2,5 +2,8 @@
 Project for a Script Languages course - 4th semester.
 The project was done in pairs and written entirely in Python. 
 
-The project is about a typing game in which you can write displayed sentences in a given time period and at the end of each game check your percentage of accuracy. 
-The game is designed to improve typing skills.
+Dynamic project aimed at honing typing skills while providing an enjoyable gaming experience. 
+This interactive game prompts users to type displayed sentences within a given time limit. 
+At the end of each session, track performance with an accuracy percentage to gauge improvement over time. 
+
+Pygame, Pytest, Multihreading
