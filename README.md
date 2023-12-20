@@ -6,4 +6,7 @@ Dynamic project aimed at honing typing skills while providing an enjoyable gamin
 This interactive game prompts users to type displayed sentences within a given time limit. 
 At the end of each session, track performance with an accuracy percentage to gauge improvement over time. 
 
-**Technologies used:** Pygame, Pytest, Multihreading
+## Technologies
+* Pygame
+* Pytest
+* Multihreading
