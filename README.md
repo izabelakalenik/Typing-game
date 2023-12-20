@@ -1,4 +1,4 @@
-# Typing-game
+# Typing game
 Project for a Script Languages course - 4th semester.
 The project was done in pairs and written entirely in Python. 
 
